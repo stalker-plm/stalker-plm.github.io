@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://stalkerplm.com/</loc>
+        <loc>https://www.stalkerplm.com/</loc>
     </url>
     <url>
-        <loc>https://stalkerplm.com/blog/</loc>
+        <loc>https://www.stalkerplm.com/blog/</loc>
     </url>
     <url>
-        <loc>https://stalkerplm.com/blog/first/</loc>
+        <loc>https://www.stalkerplm.com/blog/first/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
-        <loc>https://stalkerplm.com/blog/second/</loc>
+        <loc>https://www.stalkerplm.com/blog/second/</loc>
         <lastmod>2019-11-28</lastmod>
     </url>
     <url>
-        <loc>https://stalkerplm.com/test/</loc>
+        <loc>https://www.stalkerplm.com/test/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
 </urlset>
